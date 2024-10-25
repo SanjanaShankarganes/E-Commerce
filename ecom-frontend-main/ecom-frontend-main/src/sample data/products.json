@@ -1,0 +1,323 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "category": "Electronics",
+      "mrp": 700,
+      "discount": 10,
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Y",
+      "category": "Electronics",
+      "mrp": 800,
+      "discount": 15,
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Laptop Pro",
+      "category": "Electronics",
+      "mrp": 1500,
+      "discount": 5,
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "mrp": 150,
+      "discount": 20,
+      "stock": 100
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "mrp": 250,
+      "discount": 10,
+      "stock": 75
+    },
+    {
+      "id": 6,
+      "name": "4K TV",
+      "category": "Electronics",
+      "mrp": 1200,
+      "discount": 25,
+      "stock": 10
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "category": "Electronics",
+      "mrp": 500,
+      "discount": 15,
+      "stock": 20
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "mrp": 100,
+      "discount": 30,
+      "stock": 200
+    },
+    {
+      "id": 9,
+      "name": "Tablet",
+      "category": "Electronics",
+      "mrp": 300,
+      "discount": 10,
+      "stock": 60
+    },
+    {
+      "id": 10,
+      "name": "Desktop Computer",
+      "category": "Electronics",
+      "mrp": 1000,
+      "discount": 5,
+      "stock": 15
+    },
+    {
+      "id": 11,
+      "name": "Office Chair",
+      "category": "Furniture",
+      "mrp": 200,
+      "discount": 10,
+      "stock": 50
+    },
+    {
+      "id": 12,
+      "name": "Wooden Table",
+      "category": "Furniture",
+      "mrp": 300,
+      "discount": 15,
+      "stock": 30
+    },
+    {
+      "id": 13,
+      "name": "Sofa Set",
+      "category": "Furniture",
+      "mrp": 1200,
+      "discount": 20,
+      "stock": 15
+    },
+    {
+      "id": 14,
+      "name": "Coffee Table",
+      "category": "Furniture",
+      "mrp": 150,
+      "discount": 5,
+      "stock": 25
+    },
+    {
+      "id": 15,
+      "name": "Bookshelf",
+      "category": "Furniture",
+      "mrp": 400,
+      "discount": 10,
+      "stock": 20
+    },
+    {
+      "id": 16,
+      "name": "Dining Table",
+      "category": "Furniture",
+      "mrp": 800,
+      "discount": 15,
+      "stock": 10
+    },
+    {
+      "id": 17,
+      "name": "Bed Frame",
+      "category": "Furniture",
+      "mrp": 500,
+      "discount": 5,
+      "stock": 12
+    },
+    {
+      "id": 18,
+      "name": "Wardrobe",
+      "category": "Furniture",
+      "mrp": 900,
+      "discount": 10,
+      "stock": 8
+    },
+    {
+      "id": 19,
+      "name": "Recliner",
+      "category": "Furniture",
+      "mrp": 600,
+      "discount": 20,
+      "stock": 5
+    },
+    {
+      "id": 20,
+      "name": "Sectional Sofa",
+      "category": "Furniture",
+      "mrp": 1500,
+      "discount": 10,
+      "stock": 3
+    },
+    {
+      "id": 21,
+      "name": "Cotton T-shirt",
+      "category": "Clothing",
+      "mrp": 20,
+      "discount": 5,
+      "stock": 100
+    },
+    {
+      "id": 22,
+      "name": "Jeans",
+      "category": "Clothing",
+      "mrp": 40,
+      "discount": 10,
+      "stock": 80
+    },
+    {
+      "id": 23,
+      "name": "Winter Jacket",
+      "category": "Clothing",
+      "mrp": 100,
+      "discount": 20,
+      "stock": 50
+    },
+    {
+      "id": 24,
+      "name": "Dress",
+      "category": "Clothing",
+      "mrp": 60,
+      "discount": 15,
+      "stock": 30
+    },
+    {
+      "id": 25,
+      "name": "Sport Shoes",
+      "category": "Clothing",
+      "mrp": 80,
+      "discount": 25,
+      "stock": 20
+    },
+    {
+      "id": 26,
+      "name": "Socks",
+      "category": "Clothing",
+      "mrp": 10,
+      "discount": 5,
+      "stock": 150
+    },
+    {
+      "id": 27,
+      "name": "Sweater",
+      "category": "Clothing",
+      "mrp": 30,
+      "discount": 10,
+      "stock": 40
+    },
+    {
+      "id": 28,
+      "name": "Cap",
+      "category": "Clothing",
+      "mrp": 15,
+      "discount": 5,
+      "stock": 200
+    },
+    {
+      "id": 29,
+      "name": "Skirt",
+      "category": "Clothing",
+      "mrp": 35,
+      "discount": 15,
+      "stock": 70
+    },
+    {
+      "id": 30,
+      "name": "Shorts",
+      "category": "Clothing",
+      "mrp": 25,
+      "discount": 10,
+      "stock": 90
+    },
+    {
+      "id": 31,
+      "name": "Fiction Novel",
+      "category": "Books",
+      "mrp": 10,
+      "discount": 0,
+      "stock": 200
+    },
+    {
+      "id": 32,
+      "name": "Science Textbook",
+      "category": "Books",
+      "mrp": 30,
+      "discount": 10,
+      "stock": 150
+    },
+    {
+      "id": 33,
+      "name": "History Book",
+      "category": "Books",
+      "mrp": 20,
+      "discount": 5,
+      "stock": 180
+    },
+    {
+      "id": 34,
+      "name": "Cookbook",
+      "category": "Books",
+      "mrp": 15,
+      "discount": 0,
+      "stock": 100
+    },
+    {
+      "id": 35,
+      "name": "Travel Guide",
+      "category": "Books",
+      "mrp": 25,
+      "discount": 10,
+      "stock": 70
+    },
+    {
+      "id": 36,
+      "name": "Mystery Novel",
+      "category": "Books",
+      "mrp": 12,
+      "discount": 5,
+      "stock": 90
+    },
+    {
+      "id": 37,
+      "name": "Self-Help Book",
+      "category": "Books",
+      "mrp": 18,
+      "discount": 0,
+      "stock": 60
+    },
+    {
+      "id": 38,
+      "name": "Biography",
+      "category": "Books",
+      "mrp": 22,
+      "discount": 10,
+      "stock": 80
+    },
+    {
+      "id": 39,
+      "name": "Poetry Collection",
+      "category": "Books",
+      "mrp": 16,
+      "discount": 5,
+      "stock": 110
+    },
+    {
+      "id": 40,
+      "name": "Comic Book",
+      "category": "Books",
+      "mrp": 8,
+      "discount": 0,
+      "stock": 300
+    }
+  ]
+  
